@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "571353901131",
+    "project_id": "ozcan-boutique",
+    "storage_bucket": "ozcan-boutique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571353901131:android:2b1b4ab207feb4cfba05ce",
+        "android_client_info": {
+          "package_name": "Com.AlmirTechnology.SellerOzcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH1leI1Rg9Wf0X_q8oDspgxFu1FOYmSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571353901131-0446gdeafdffhgbf227v6jvmsjju70a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlmirTechnology.Deliveryozcan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571353901131:android:44e6dc595fd532caba05ce",
+        "android_client_info": {
+          "package_name": "com.AlmirTechnology.Deliveryozcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571353901131-gjerdtir3087ctmg1kp2o54qi6h1v08f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AlmirTechnology.Deliveryozcan",
+            "certificate_hash": "e32dfa9ed0a3926c77d7cfd3500044d2018cef73"
+          }
+        },
+        {
+          "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH1leI1Rg9Wf0X_q8oDspgxFu1FOYmSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571353901131-0446gdeafdffhgbf227v6jvmsjju70a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlmirTechnology.Deliveryozcan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571353901131:android:ea59e5555bb94a34ba05ce",
+        "android_client_info": {
+          "package_name": "com.AlmirTechnology.OzcanBoutique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571353901131-eprl6ubhnl1lvll3evt23fok5q2pudsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AlmirTechnology.OzcanBoutique",
+            "certificate_hash": "e32dfa9ed0a3926c77d7cfd3500044d2018cef73"
+          }
+        },
+        {
+          "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH1leI1Rg9Wf0X_q8oDspgxFu1FOYmSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571353901131-0446gdeafdffhgbf227v6jvmsjju70a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlmirTechnology.Deliveryozcan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571353901131:android:9f000e13c1bdc813ba05ce",
+        "android_client_info": {
+          "package_name": "com.AlmirTechnology.SellerOzcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571353901131-7qmbdomdukemc8qilasi89nanedojbo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AlmirTechnology.SellerOzcan",
+            "certificate_hash": "c5ffa4887166b8ecfa43acd326af4cc3a8239a42"
+          }
+        },
+        {
+          "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH1leI1Rg9Wf0X_q8oDspgxFu1FOYmSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571353901131-i46hcit7k5kuuqacb52biu7ot87f0tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571353901131-0446gdeafdffhgbf227v6jvmsjju70a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AlmirTechnology.Deliveryozcan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

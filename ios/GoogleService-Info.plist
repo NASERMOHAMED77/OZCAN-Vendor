@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>571353901131-ua6t2092smg9ai53p8garq001ik3qg0r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.571353901131-ua6t2092smg9ai53p8garq001ik3qg0r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>571353901131-1efal6slv5tvlcckom2vgrvpfm9oi0bp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA64PRzgYnfO2jjHR68s5_cgwLYkFtpsfU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>571353901131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AlmirTechnology.SellerOzcan</string>
+	<key>PROJECT_ID</key>
+	<string>ozcan-boutique</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ozcan-boutique.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:571353901131:ios:64aad397463479c2ba05ce</string>
+</dict>
+</plist>
